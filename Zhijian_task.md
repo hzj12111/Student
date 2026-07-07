@@ -1,6 +1,6 @@
 # 20260707
 
-## How to assign the 5',3' and internal reads? How to do it better and faster?
+## How to assign the 5', 3' and internal reads? How to do it better and faster?
 
 
 # 20260708
